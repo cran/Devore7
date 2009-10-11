@@ -10,7 +10,7 @@ The \code{xmp15.09} data frame has 35 rows and 2 columns.
   A data frame with 35 observations on the following 2 variables.
   \describe{
     \item{\code{C1}}{a numeric vector}
-    \item{\code{C2}}{a factor with levels \code{10"} \code{12"} \code{4"} \code{6"} \code{8"}}
+    \item{\code{C2}}{a factor with levels \code{10\"} \code{12\"} \code{4\"} \code{6\"} \code{8\"}}
   }
 }
 \details{
