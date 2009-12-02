@@ -1,0 +1,10 @@
+
+
+New in version 0.7.3
+----------------------
+
+* Fix suggestedby KM:
+
+   In the Devore7 package on CRAN, there is an error in ex08.57:
+   ex08.57$C1[6] should be 35 vice 38. (Ref: Devore 7, p. 318).
+

@@ -1,5 +1,5 @@
 `ex08.57` <-
-structure(list(C1 = as.integer(c(27, 41, 22, 27, 23, 38, 30, 
+structure(list(C1 = as.integer(c(27, 41, 22, 27, 23, 35, 30, 
 33, 24, 27, 28, 22, 24))), .Names = "C1", class = "data.frame", row.names = c("1", 
 "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13"
 ))
