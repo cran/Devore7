@@ -17,7 +17,7 @@
 \newcommand\code{\bgroup\@codex}
 \def\@codex#1{{\normalfont\ttfamily\hyphenchar\font=-1 #1}\egroup}
 \begin{document}
-\SweaveOpts{engine=R,eps=FALSE,pdf=TRUE,width=5,height=3,strip.white=TRUE}
+\SweaveOpts{engine=R,eps=FALSE,pdf=TRUE,width=5,height=3}
 \setkeys{Gin}{width=\textwidth}
 \title{Using the Devore7 package with R}
 \author{Douglas Bates\\Department of Statistics\\
